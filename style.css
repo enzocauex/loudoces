@@ -157,3 +157,11 @@ main section:nth-child(3) {
         transform: translateY(0);
     }
 }
+
+/* scren */
+
+@media (max-width: 768px) {
+    body {
+        background-size: cover;
+    }
+}
