@@ -160,7 +160,7 @@ main section:nth-child(3) {
 
 /* scren */
 
-@media (max-width: 768px) {
+@media (max-width: 790px) {
     body {
         background-size: cover;
     }
